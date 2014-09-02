@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns="http://www.w3.org/2000/svg"
+   width="110"
+   height="110">
+  <path
+  	style="fill:#000;fill-opacity:1"
+  	d="M10,5 5,5 55,105 105,5 100,5 C95,5 85,5 80,15 L80,15 60,55 C55,65 55,65 60,75 L60,75 30,15 C25,5 15,5 10,5"
+  />
+</svg>
