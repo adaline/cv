@@ -24,6 +24,15 @@ sections:
     title: Past employers
     content:
       -
+        title: Whitespace Ltd, UK (2014)
+        content: |
+          Senior Developer
+          ----------------
+          Rails back-end development and maintenance
+          Infrastructure provisioning and dev ops, Docker builds 
+          Front-end development, lots of JS components and UI work
+          Project scoping and technology evaluation
+      -
         title: Boxhug Ltd, UK (2014)
         content: |
           Developer
