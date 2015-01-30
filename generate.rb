@@ -93,10 +93,11 @@ unless File.exists? data_filename
 end
 
 output_filename = File.join('cv.pdf')
-if File.exists? output_filename
-	puts "Output file #{output_filename} already exists"
-	exit 1
-end
+# Overwrite
+# if File.exists? output_filename
+# 	puts "Output file #{output_filename} already exists"
+# 	exit 1
+# end
 
 data = YAML.load(File.read(data_filename))
 produce_cv(data, output_filename)

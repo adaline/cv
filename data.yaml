@@ -16,13 +16,25 @@ sections:
       content: HTML5, JavaScript (+ CoffeeScript), jQuery, CSS (+Sass/Stylus etc), SVG, Canvas, WebAudio, etc
     -
       title: Data
-      content: PostgreSQL, MySQL, Firebird, SQL Server, MongoDB, Redis
+      content: PostgreSQL, MySQL, MongoDB, Redis
+    -
+      title: Deployment
+      content: Docker, Ansible, Chef, Capistrano
     -
       title: General
       content: Love linux for work activities and very comfortable with Mac and Windows systems too.
   -
     title: Past employers
     content:
+      -
+        title: Vualto (2014-2015)
+        content: |
+          Consulting Developer
+          -------
+          Building a range of micro-services for central config management, data processing and logging
+          Docker containerisation and deployment
+          Rails front-end for configuration admin, statistics dashboard and testing
+
       -
         title: Whitespace Ltd, UK (2014)
         content: |
