@@ -9,7 +9,7 @@ def produce_cv(data, output_filename)
 		font_families.update("DejaVu Sans" => {
 			:normal => "assets/DejaVuSans.ttf"
 		})
-		
+
 		font "DejaVu Sans"
 		default_leading 3
 
@@ -27,17 +27,17 @@ def produce_cv(data, output_filename)
 					end
 
 					fill_color "999999"
-					
+
 					if page_number == 1
 						font_size 20
 						text "Curriculum vitae"
 					end
-					
+
 					if page_number > 1
 						font_size 10
 						text "Page #{page_number}"
 					end
-					
+
 					stroke do
 						stroke_color "dddddd"
 						horizontal_rule
@@ -45,11 +45,11 @@ def produce_cv(data, output_filename)
 
       	end
  			end
-			
-			
+
+
 		end
-		
-		def print_section(title, content, title_size, indent)
+
+		def print_section(title, introduction, content, title_size, indent)
 			if content.is_a?(Array)
 				indent(indent) do
 					move_down 20
@@ -59,7 +59,7 @@ def produce_cv(data, output_filename)
 				end
 
 				content.each do |sub_section|
-					print_section(sub_section['title'], sub_section['content'], title_size - 4, indent + 20)
+					print_section(sub_section['title'], sub_section['introduction'], sub_section['content'], title_size - 4, indent + 20)
 				end
 			else
 				indent(indent) do
@@ -67,6 +67,12 @@ def produce_cv(data, output_filename)
 					font_size title_size
 					fill_color "999999"
 					text title
+
+					unless introduction == ''
+						move_down 5
+						font_size title_size - 4
+						text introduction
+					end
 
 					move_down 5
 					font_size 10
@@ -79,7 +85,7 @@ def produce_cv(data, output_filename)
 		end
 
 		data['sections'].each do |section|
-			print_section(section['title'], section['content'], 16, 10)
+			print_section(section['title'], section['introduction'], section['content'], 16, 10)
 		end
 
 	end

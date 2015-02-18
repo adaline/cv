@@ -4,7 +4,11 @@ sections:
     content: |
       I make web applications that power business.
       My experience covers the 'full stack' of web applications: from the initial idea through to design, development and finally deployment and maintenance.
-      I have over 12 years of industry experience with all manner of clients and projects and my aim is always to create a technically, aesthetically and functionally pleasing product which is why I take great pride in my work.
+      I have over 12 years of industry experience, including: corporate and enterprise, various sizes/stages of start-ups, creative agencies, freelance and contract work.
+      For the last 5 years I have specialised in Ruby development as well as picking up later technology (Node + Go) for use where appropriate.
+      Many latest projects also include at least some degree of remote work, giving me organisational skills and experience of working off-site
+      as well as on-site, mentoring / knowledge sharing with remote teams and the the infrastructure to enable this.
+      My aim is always to create a technically, aesthetically and functionally pleasing product which is why I take great pride in my work.
   -
     title: Skills
     content:
@@ -27,49 +31,55 @@ sections:
     title: Past employers
     content:
       -
-        title: Vualto (2014-2015)
+        title: Vualto (December 2014 - January 2015)
+        introduction: A video platform for broadcasting companies (a la BBC iPlayer)
         content: |
-          Consulting Developer
+          Consulting Developer, working along side internal expert
           -------
           Building a range of micro-services for central config management, data processing and logging
           Docker containerisation and deployment
           Rails front-end for configuration admin, statistics dashboard and testing
 
       -
-        title: Whitespace Ltd, UK (2014)
+        title: Whitespace Ltd, UK (September - November 2014)
+        introduction: Award-winning creative agency
         content: |
-          Senior Developer
+          Senior Developer, on-site with internal team
           ----------------
           Rails back-end development and maintenance
-          Infrastructure provisioning and dev ops, Docker builds 
+          Infrastructure provisioning and dev ops, Docker builds
           Front-end development, lots of JS components and UI work
           Project scoping and technology evaluation
       -
-        title: Boxhug Ltd, UK (2014)
+        title: Boxhug Ltd, UK (April - July 2014)
+        introduction: A storage startup that delivers to your door
         content: |
-          Developer
-          ----------------- 
+          Developer, working direct with the founder
+          -----------------
           System re-build and public launch
           UI and UX overhaul, mobile
           Marketing (PPC, analytics feedback, landing and conversion optimization, etc)
       -
-        title: AtticTV Pte Ltd, Taiwan/Singapore (2013-2014)
+        title: AtticTV Pte Ltd, Taiwan/Singapore (June 2013 - June 2014)
+        introduction: News content startup
         content: |
-          Developer
+          Developer, working remotely with a distributed team
           -----------------
           Back-end systems for a mobile app outfit
           Lots of automation work for managing a huge app portfolio
           Content discovery and acquisition
           Ruby and Node.js
       -
-        title: Kdan mobile, Taiwan (2013)
+        title: Kdan mobile, Taiwan (October - November 2013)
+        introduction: Mobile app development house
         content: |
-          Developer
+          Developer, on-site
           -----------------
           Mail system design and implementation
-          Consulation on test driven development
+          Consultation on test driven development
       -
-        title: QR8 Design Ltd. (2006 - 2013)
+        title: QR8 Design Ltd. (January 2006 - June 2013)
+        introduction: Creative agency
         content: |
           Developer / Partner
           -----------------
@@ -79,9 +89,10 @@ sections:
           3D & 2D graphics, motion graphics
           Research and consultation, business planning, co-founded offshoot startups
       -
-        title: Webtechnik Ltd. (2005 - 2006)
+        title: Webtechnik Ltd. (September 2005 - December 2006)
+        introduction: Web development house
         content: |
-          Web developer
+          Developer
           -----------------
           Web site design and development, research and consultation
           Graphic design - layout graphics, image manipulation, content illustration
@@ -89,7 +100,8 @@ sections:
           E-commerce systems
           Server setup and maintenance
       -
-        title: Need-A-Sign (2005)
+        title: Need-A-Sign (March - July 2005)
+        introduction: Signage and large format print
         content: |
           Designer / Tech
           -----------------
@@ -97,7 +109,8 @@ sections:
           Vector design and plotter setup
           Software/Hardware setup and maintenance
       -
-        title: Prometheus UK Ltd (2004 - 2005)
+        title: Prometheus UK Ltd (October 2004 - April 2005)
+        introduction: SME back office systems provider
         content: |
           Technical co-founder
           -----------------
@@ -111,7 +124,8 @@ sections:
           Company web site design and development
           Direct mass marketing and marketing data acquisition
       -
-        title: DS Print & Design (2003 - 2004)
+        title: DS Print & Design (September 2003 - September 2004)
+        introduction: Digital and traditional marketing supplier
         content: |
           Designer / Developer / Print technician
           -----------------
