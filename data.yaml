@@ -31,6 +31,31 @@ sections:
     title: Past employers
     content:
       -
+        title: Vualto (June 2014 - July 2015)
+        introduction: A video platform for broadcasting companies (a la BBC iPlayer)
+        content: |
+          Consulting Developer, working along side internal expert
+          -------
+          Continuing on the work from start of the year, expanding the micro-service based DRM platform "vudrm".
+          Improved Docker containers, internal Ruby gems, Sinatra APIs and a Rails app to manage it all.
+      -
+        title: initforthe (April 2015 - May 2015)
+        introduction: Web Development Agency
+        content: |
+          Consulting Developer, working solo and with a team
+          -------
+          Working solo for NHS client and a travel industry platform.
+          Working with a team on a prominent online retailer.
+
+      -
+        title: Sourcelab (March 2015 - April 2015)
+        introduction: Web Development Agency
+        content: |
+          Consulting Developer, working with the client and UX guru
+          -------
+          Rebuilding the front end of a big recruitment platform.
+          Lots of old code cleanup, complete interface strip and re-build.
+      -
         title: Vualto (December 2014 - January 2015)
         introduction: A video platform for broadcasting companies (a la BBC iPlayer)
         content: |
@@ -39,7 +64,6 @@ sections:
           Building a range of micro-services for central config management, data processing and logging
           Docker containerisation and deployment
           Rails front-end for configuration admin, statistics dashboard and testing
-
       -
         title: Whitespace Ltd, UK (September - November 2014)
         introduction: Award-winning creative agency
