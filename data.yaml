@@ -31,6 +31,24 @@ sections:
     title: Past employers
     content:
       -
+        title: Party For The People ( July 2015 - Present )
+        introduction: Event platform
+        content: |
+          I have taken over the development and maintenance of the platform.
+          Rescue work to rapidly stabilize the system.
+          Re-architecture of the system for more robust and rapid operation touching every corner of the codebase.
+          Query optimization, data normalization and migration.
+          Migration of the live system from US region to EU servers.
+          Preparing the system for upgrade, building up a non-existent test suite.
+      -
+        title: initforthe ( July 2015 - Present )
+        introduction: Web Development Agency
+        content: |
+          Consulting Developer, working solo and with a team
+          -------
+          Lots of front end work, CSS3 animations, creative asset processing, hand crafted HTML5 ads, HTML emails etc.
+          DoubleClick platform integration. Middleman-based tooling development.
+      -
         title: Vualto (June 2014 - July 2015)
         introduction: A video platform for broadcasting companies (a la BBC iPlayer)
         content: |
