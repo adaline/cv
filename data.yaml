@@ -2,10 +2,9 @@ sections:
   -
     title: Profile
     content: |
-      I make web applications that power business.
       My experience covers the 'full stack' of web applications: from the initial idea through to design, development and finally deployment and maintenance.
-      I have over 12 years of industry experience, including: corporate and enterprise, various sizes/stages of start-ups, creative agencies, freelance and contract work.
-      For the last 5 years I have specialised in Ruby development as well as picking up later technology (Node + Go) for use where appropriate.
+      I have over 13 years of industry experience, including: corporate and enterprise, various sizes/stages of start-ups, creative agencies, freelance and contract work.
+      For the last 6 years I have specialised in Ruby development as well as picking up later technology (Node + Go) for use where appropriate.
       Many latest projects also include at least some degree of remote work, giving me organisational skills and experience of working off-site
       as well as on-site, mentoring / knowledge sharing with remote teams and the the infrastructure to enable this.
       My aim is always to create a technically, aesthetically and functionally pleasing product which is why I take great pride in my work.
@@ -34,12 +33,12 @@ sections:
         title: Party For The People ( July 2015 - Present )
         introduction: Event platform
         content: |
-          I have taken over the development and maintenance of the platform.
-          Rescue work to rapidly stabilize the system.
-          Re-architecture of the system for more robust and rapid operation touching every corner of the codebase.
-          Query optimization, data normalization and migration.
-          Migration of the live system from US region to EU servers.
-          Preparing the system for upgrade, building up a non-existent test suite.
+          Platform development and maintenance taken over from another developer.
+          Rescue work to rapidly stabilize buisness-vital operations.
+          System re-architecture for robust and rapid operation.
+          Migration of the live system from US to EU region.
+          Massive query optimization, data normalization and re-processing.
+          Building up a non-existent test suite.
       -
         title: initforthe ( August 2015 - July 2015 )
         introduction: Web Development Agency
