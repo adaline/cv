@@ -30,7 +30,17 @@ sections:
     title: Past employers
     content:
       -
-        title: Party For The People ( July 2015 - Present )
+        title: Vypr ( June 2016 - May 2017 )
+        introduction: FMCG product development platfrom
+        content: |
+          I have joined Vypr as the head of development, bringing required technial expertise and working as part of the in-house product team.
+          My first task was rescue of the half-finished v2 of the platfrom, full of bad descisions.
+          Once stabalized, we had to deliver on deadlines promised by the comercial team.
+          Finally I have architectured the v3 of the platfrom, which would achive all the ambitions set out by the company at large.
+          Together with the team we built and launched the system and the supporting infrastructure, which has completely transformed the product offering.
+          In the final 2 months of my contract, I have designed the next itteration of the system and worked with the team to allow continuation of development.
+      -
+        title: Party For The People ( July 2015 - May 2016 )
         introduction: Event platform
         content: |
           Platform development and maintenance taken over from another developer.
