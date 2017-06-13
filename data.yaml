@@ -3,14 +3,17 @@ sections:
     title: Profile
     content: |
       My experience covers the 'full stack' of web applications: from the initial idea through to design, development and finally deployment and maintenance.
-      I have over 13 years of industry experience, including: corporate and enterprise, various sizes/stages of start-ups, creative agencies, freelance and contract work.
-      For the last 6 years I have specialised in Ruby development as well as picking up later technology (Node + Go) for use where appropriate.
+      I have over 14 years of industry experience, including: corporate and enterprise, various sizes/stages of start-ups, creative agencies, freelance and contract work.
+      For the last 7 years I have specialised in Ruby development as well as picking up later technology (Node + Go) for use where appropriate.
       Many latest projects also include at least some degree of remote work, giving me organisational skills and experience of working off-site
       as well as on-site, mentoring / knowledge sharing with remote teams and the the infrastructure to enable this.
       My aim is always to create a technically, aesthetically and functionally pleasing product which is why I take great pride in my work.
   -
     title: Skills
     content:
+    -
+      title: Managerial
+      content: Team leadership, Consultation and strategy, Work planning, Presentation and pitches
     -
       title: Development
       content: Ruby, Node.js, Python, PHP, C/C++, C#, Shell, Java / Java Servlets and some Assembly
@@ -22,7 +25,7 @@ sections:
       content: PostgreSQL, MySQL, MongoDB, Redis
     -
       title: Deployment
-      content: Docker, Ansible, Chef, Capistrano
+      content: Docker, Ansible, Chef, Capistrano, Heroku, AWS, etc
     -
       title: General
       content: Love linux for work activities and very comfortable with Mac and Windows systems too.
