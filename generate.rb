@@ -23,7 +23,7 @@ def produce_cv(data, output_filename)
 						font_size 12
 						text "Valentin Arkhipov", :align => :right
 						font_size 10
-						text "arkhipov.valentin@gmail.com\n07510961175", :align => :right
+						text "arkhipov.valentin@gmail.com\n+49 177 5998891", :align => :right
 					end
 
 					fill_color "999999"

@@ -2,36 +2,17 @@ sections:
   -
     title: Profile
     content: |
-      My experience covers the 'full stack' of web applications: from the initial idea through to design, development and finally deployment and maintenance.
-      I have over 14 years of industry experience, including: corporate and enterprise, various sizes/stages of start-ups, creative agencies, freelance and contract work.
-      For the last 7 years I have specialised in Ruby development as well as picking up later technology (Node + Go) for use where appropriate.
-      Many latest projects also include at least some degree of remote work, giving me organisational skills and experience of working off-site
-      as well as on-site, mentoring / knowledge sharing with remote teams and the the infrastructure to enable this.
-      My aim is always to create a technically, aesthetically and functionally pleasing product which is why I take great pride in my work.
-  -
-    title: Skills
-    content:
-    -
-      title: Managerial
-      content: Team leadership, Consultation and strategy, Work planning, Presentation and pitches
-    -
-      title: Development
-      content: Ruby, Node.js, Python, PHP, C/C++, C#, Shell, Java / Java Servlets and some Assembly
-    -
-      title: Front end
-      content: HTML5, JavaScript (+ CoffeeScript), jQuery, CSS (+Sass/Stylus etc), SVG, Canvas, WebAudio, etc
-    -
-      title: Data
-      content: PostgreSQL, MySQL, MongoDB, Redis
-    -
-      title: Deployment
-      content: Docker, Ansible, Chef, Capistrano, Heroku, AWS, etc
-    -
-      title: General
-      content: Love linux for work activities and very comfortable with Mac and Windows systems too.
+      In my 20 year career working as a freelancer, contracting, various size companies and public sector projects, I have developed the skills and a reputation to solve problems with elegant technical solutions.
+
+      My strength often lies in deep architectural understanding of software projects and people skills that let me bridge the gap between business demands and technical expertise, my aim is always to deliver amazing results by working with amazing people.
   -
     title: Past employers
     content:
+      -
+        title: Dalia Research ( September 2017 - present )
+        introduction: Market research company
+        content: |
+          Since joining Dalia, I have helped to scale their products and with that the business ambitions through technical expertise and approach. I have also been proactive in the cultural and social aspect, taking on a leadership role where possible to allow effective scaling of the team and the processes around our work. Setting the pace with knowledge sharing presentations, directly leading tech teams, advising stakeholders to insure success at the outset and tackling tough challenges head-on, im proud to have earned a reputation for delivering miracles.
       -
         title: Vypr ( June 2016 - May 2017 )
         introduction: FMCG product development platfrom
@@ -39,8 +20,10 @@ sections:
           I have joined Vypr as the head of development, bringing required technial expertise and working as part of the in-house product team.
           My first task was rescue of the half-finished v2 of the platfrom, full of bad descisions.
           Once stabalized, we had to deliver on deadlines promised by the comercial team.
+
           Finally I have architectured the v3 of the platfrom, which would achive all the ambitions set out by the company at large.
           Together with the team we built and launched the system and the supporting infrastructure, which has completely transformed the product offering.
+          
           In the final 2 months of my contract, I have designed the next itteration of the system and worked with the team to allow continuation of development.
       -
         title: Party For The People ( July 2015 - May 2016 )
@@ -189,6 +172,27 @@ sections:
           Book publishing, graphic design
           Customer service, answering customer queries (over phone/email or in person)
           Digital print, binding, cutting and folding machinery setup and operation
+  -
+    title: Skills
+    content:
+    -
+      title: Managerial
+      content: Team leadership, Consultation and strategy, Work planning, Presentation and pitches
+    -
+      title: Development
+      content: Ruby, Node.js, Go, Rust, Python, PHP, C/C++, C#, Shell, Java / Java Servlets and some Assembly
+    -
+      title: Front end
+      content: HTML, JavaScript, CSS, React, Vue, SVG, Canvas, WebAudio, etc
+    -
+      title: Data
+      content: PostgreSQL, MySQL, MongoDB, Redis, Apache Spark, ElasticSearch
+    -
+      title: Deployment
+      content: Docker, Ansible, Chef, Capistrano, Heroku, AWS, etc
+    -
+      title: General
+      content: Love linux for work activities and very comfortable with Mac and Windows systems too.
   -
     title: Code for this CV
     content: |
