@@ -1,199 +1,105 @@
 sections:
-  -
-    title: Profile
+  - title: Profile
     content: |
-      In my 20 year career working as a freelancer, contracting, various size companies and public sector projects, I have developed the skills and a reputation to solve problems with elegant technical solutions.
+      In my 20 year career working in startups, SMEs and public sector projects, I have developed the skills and reputation to deliver elegant technical solutions for diverse problems.
 
-      My strength often lies in deep architectural understanding of software projects and people skills that let me bridge the gap between business demands and technical expertise, my aim is always to deliver amazing results by working with amazing people.
-  -
-    title: Past employers
+      My strength lies in deep architectural understanding of software projects combined with people skills that let me bridge the gap between business demands and technical expertise. My aim is always to deliver amazing results by working with amazing people.
+  - title: TLDR
     content:
-      -
-        title: Dalia Research ( September 2017 - present )
-        introduction: Market research company
-        content: |
-          Since joining Dalia, I have helped to scale their products and with that the business ambitions through technical expertise and approach. I have also been proactive in the cultural and social aspect, taking on a leadership role where possible to allow effective scaling of the team and the processes around our work. Setting the pace with knowledge sharing presentations, directly leading tech teams, advising stakeholders to insure success at the outset and tackling tough challenges head-on, im proud to have earned a reputation for delivering miracles.
-      -
-        title: Vypr ( June 2016 - May 2017 )
-        introduction: FMCG product development platfrom
-        content: |
-          I have joined Vypr as the head of development, bringing required technial expertise and working as part of the in-house product team.
-          My first task was rescue of the half-finished v2 of the platfrom, full of bad descisions.
-          Once stabalized, we had to deliver on deadlines promised by the comercial team.
+      Team leadership, tech consultation and strategy, work planning, presentations, pitches, workshops
 
-          Finally I have architectured the v3 of the platfrom, which would achive all the ambitions set out by the company at large.
-          Together with the team we built and launched the system and the supporting infrastructure, which has completely transformed the product offering.
-          
-          In the final 2 months of my contract, I have designed the next itteration of the system and worked with the team to allow continuation of development.
-      -
-        title: Party For The People ( July 2015 - May 2016 )
-        introduction: Event platform
-        content: |
-          Platform development and maintenance taken over from another developer.
-          Rescue work to rapidly stabilize buisness-vital operations.
-          System re-architecture for robust and rapid operation.
-          Migration of the live system from US to EU region.
-          Massive query optimization, data normalization and re-processing.
-          Building up a non-existent test suite.
-      -
-        title: initforthe ( August 2015 - July 2015 )
-        introduction: Web Development Agency
-        content: |
-          Consulting Developer, working solo and with a team
-          -------
-          Lots of front end work, CSS3 animations, creative asset processing, hand crafted HTML5 ads, HTML emails etc.
-          DoubleClick platform integration. Middleman-based tooling development.
-      -
-        title: Vualto (June 2014 - July 2015)
-        introduction: A video platform for broadcasting companies (a la BBC iPlayer)
-        content: |
-          Consulting Developer, working along side internal expert
-          -------
-          Continuing on the work from start of the year, expanding the micro-service based DRM platform "vudrm".
-          Improved Docker containers, internal Ruby gems, Sinatra APIs and a Rails app to manage it all.
-      -
-        title: initforthe (April 2015 - May 2015)
-        introduction: Web Development Agency
-        content: |
-          Consulting Developer, working solo and with a team
-          -------
-          Working solo for NHS client and a travel industry platform.
-          Working with a team on a prominent online retailer.
+      Ruby, Node.js, Go, Rust, Python, PHP, C/C++, C#, Shell, Java
 
-      -
-        title: Sourcelab (March 2015 - April 2015)
-        introduction: Web Development Agency
-        content: |
-          Consulting Developer, working with the client and UX guru
-          -------
-          Rebuilding the front end of a big recruitment platform.
-          Lots of old code cleanup, complete interface strip and re-build.
-      -
-        title: Vualto (December 2014 - January 2015)
-        introduction: A video platform for broadcasting companies (a la BBC iPlayer)
-        content: |
-          Consulting Developer, working along side internal expert
-          -------
-          Building a range of micro-services for central config management, data processing and logging
-          Docker containerisation and deployment
-          Rails front-end for configuration admin, statistics dashboard and testing
-      -
-        title: Whitespace Ltd, UK (September - November 2014)
-        introduction: Award-winning creative agency
-        content: |
-          Senior Developer, on-site with internal team
-          ----------------
-          Rails back-end development and maintenance
-          Infrastructure provisioning and dev ops, Docker builds
-          Front-end development, lots of JS components and UI work
-          Project scoping and technology evaluation
-      -
-        title: Boxhug Ltd, UK (April - July 2014)
-        introduction: A storage startup that delivers to your door
-        content: |
-          Developer, working direct with the founder
-          -----------------
-          System re-build and public launch
-          UI and UX overhaul, mobile
-          Marketing (PPC, analytics feedback, landing and conversion optimization, etc)
-      -
-        title: AtticTV Pte Ltd, Taiwan/Singapore (June 2013 - June 2014)
-        introduction: News content startup
-        content: |
-          Developer, working remotely with a distributed team
-          -----------------
-          Back-end systems for a mobile app outfit
-          Lots of automation work for managing a huge app portfolio
-          Content discovery and acquisition
-          Ruby and Node.js
-      -
-        title: Kdan mobile, Taiwan (October - November 2013)
-        introduction: Mobile app development house
-        content: |
-          Developer, on-site
-          -----------------
-          Mail system design and implementation
-          Consultation on test driven development
-      -
-        title: QR8 Design Ltd. (January 2006 - June 2013)
-        introduction: Creative agency
-        content: |
-          Developer / Partner
-          -----------------
-          System architecture design, development and deployment
-          API design and integration, automated systems
-          Server administration, scripting and automation
-          3D & 2D graphics, motion graphics
-          Research and consultation, business planning, co-founded offshoot startups
-      -
-        title: Webtechnik Ltd. (September 2005 - December 2006)
-        introduction: Web development house
-        content: |
-          Developer
-          -----------------
-          Web site design and development, research and consultation
-          Graphic design - layout graphics, image manipulation, content illustration
-          CMS systems (Novelty at the time)
-          E-commerce systems
-          Server setup and maintenance
-      -
-        title: Need-A-Sign (March - July 2005)
-        introduction: Signage and large format print
-        content: |
-          Designer / Tech
-          -----------------
-          Large media print design and setup
-          Vector design and plotter setup
-          Software/Hardware setup and maintenance
-      -
-        title: Prometheus UK Ltd (October 2004 - April 2005)
-        introduction: SME back office systems provider
-        content: |
-          Technical co-founder
-          -----------------
-          Bespoke desktop/back office system development
-          Integration with Microsoft Office
-          Cryptography and networking
-          Concurrent operations and multi-threading
-          Multiple database integration (SQL Server, Jet, Firebird)
-          RDBMS development, database design, stored procedures
-          GUI design, icons, GUI graphics, promotional literature
-          Company web site design and development
-          Direct mass marketing and marketing data acquisition
-      -
-        title: DS Print & Design (September 2003 - September 2004)
-        introduction: Digital and traditional marketing supplier
-        content: |
-          Designer / Developer / Print technician
-          -----------------
-          Web design, accessibility and standards coding
-          Web development using PHP and ASP
-          Bespoke content management systems (dawn of such systems!)
-          Book publishing, graphic design
-          Customer service, answering customer queries (over phone/email or in person)
-          Digital print, binding, cutting and folding machinery setup and operation
-  -
-    title: Skills
+      JavaScript, React, Vue, Canvas, WebAudio, WebGL
+
+      PostgreSQL, MySQL, MongoDB, Redis, ElasticSearch, Apache Spark + related
+  - title: Latest work
     content:
-    -
-      title: Managerial
-      content: Team leadership, Consultation and strategy, Work planning, Presentation and pitches
-    -
-      title: Development
-      content: Ruby, Node.js, Go, Rust, Python, PHP, C/C++, C#, Shell, Java / Java Servlets and some Assembly
-    -
-      title: Front end
-      content: HTML, JavaScript, CSS, React, Vue, SVG, Canvas, WebAudio, etc
-    -
-      title: Data
-      content: PostgreSQL, MySQL, MongoDB, Redis, Apache Spark, ElasticSearch
-    -
-      title: Deployment
-      content: Docker, Ansible, Chef, Capistrano, Heroku, AWS, etc
-    -
-      title: General
-      content: Love linux for work activities and very comfortable with Mac and Windows systems too.
-  -
-    title: Code for this CV
+      - title: Dalia Research, market research startup - Berlin
+        introduction: Principal Engineer (September 2017 - February 2020)
+        content: |
+          Tech: Ruby on Rails, Sinatra, Node, Python, React, Vue.js, MySQL, Mongo, Elasticsearch, Redis, Kafka, Apache Spark ecosystem, AWS, Docker
+
+          - Development work as part of the engineering chapter
+          - Internal consultancy and solutions, cross team projects
+          - Architecture and planning of the tech roadmap
+          - Team leadership, knowledge sharing, public speaking, workshop design
+          - Recruiting outreach, candidate interviews, community presence
+
+      - start_new_page: true
+        title: Vypr, FMCG product development platform - Manchester
+        introduction: Contractor (June 2016 - May 2017)
+        content: |
+          Tech: Ruby on Rails, React, Mongo, Redis, PostgreSQL, iOS, Android, Docker
+
+          - Heading the development team
+          - Rescue of a derailed platform development project
+          - Digital strategy consultation and planning across departments
+          - Establishing tech and process best practice for future work
+          - Architecture, development and rollout of a new platform version
+
+      - title: Party For The People, event platform - Sheffield
+        introduction: Freelance/Consultant (July 2015 - May 2016)
+        content: |
+          Tech: Ruby on Rails, Frontend, Elasticsearch, Heroku ecosystem
+
+          - Platform handover from another provider
+          - Rapid re-architecture and payment subsystem rebuild (prior to launch of europe’s biggest student festival)
+          - Live system migration from US to EU
+          - Data layer rebuild, access optimization, normalization and data processing
+          - Establishing tech workflows, test suite, CI, source control, deployment pipeline
+          - Sourcing and handover to a new local provider
+      - title: Black Eye Project, creative agency - Sheffield
+        introduction: Freelance/Consultant (October 2015 - May 2016)
+        content: |
+          Tech: Ruby on Rails, Frontend
+
+          - Consultancy and delivery of projects for multi-medium creative campaigns
+      - start_new_page: true
+        title: Initforthe, tech agency - Manchester
+        introduction: Contractor (April 2015 - August 2015 (in 2 stints))
+        content: |
+          Tech: Ruby on Rails, Sinatra, Ruby CLI tools, JS/CSS
+
+          - Creating a suite of HTML5 ads for LandRover, building out Middleman based toolset
+          - JS, CSS animations, asset optimization, DoubleClick platform integration, email templating
+          - Taking over a development phase of an NHS project and a travel platform
+          - Joining a multinational development project for a large online retailer
+      - title: Sourcelab, tech agency - Manchester
+        introduction: Contractor (March 2015 - April 2015)
+        content: |
+          Tech: Ruby on Rails, Frontend
+          - Delivering a short client project - healthcare staff management platform
+      - title: Vualto, video and broadcasting platform - Sheffield
+        introduction: Contractor (December 2014 - July 2015 (in 2 stints))
+        content: |
+          Tech: Ruby on Rails, Sinatra, Docker
+
+          - Building a new multi-provider DRM platform for video delivery
+          - Central config management, monitoring, logging and end-user statistics
+          - Containerisation and deployment setup
+  - start_new_page: true
+    title: Prior work
     content: |
-      This file was generated by code, you can view it here: https://github.com/adaline/cv
+      Whitespace Ltd, creative agency - Sheffield, Sep - Nov 2014
+      - Onsite + remote freelance development, ruby
+
+      Boxhug Ltd, logistics and storage startup - Derby, April - July 2014
+      - Remote freelance, MVP build and launch - ruby
+
+      AtticTV Pte Ltd, mobile news service - Taiwan/Singapore, June 2013 - June 2014
+      - Remote freelance, backend systems - node.js, go, ruby
+
+      Kdan mobile, app software house - Taiwan, October - November 2013
+      - Onsite freelance, backend systems - ruby
+
+      QR8 Design Ltd, creative agency - Sheffield, Jan 2006 - June 2013
+      - Onsite perm, development, spinoff co-founding - php, python, java, ruby
+
+      Various prior work going back to 2000, let me know if you would like the details!
+  - title: Notable open source / other work
+    content: |
+      - This CV: https://github.com/adaline/cv
+      - Email service in a container, 500K+ installs: https://hub.docker.com/r/adaline/dockermail-core
+      - DJ tool, realtime audio processing and concurrent graphics in JS, in 2013! http://mixbolt.com/
+      - Development of small-medium scale manufacturing process for composite materials.

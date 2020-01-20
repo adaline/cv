@@ -1,3 +1,6 @@
+#!/usr/bin/env ruby
+#coding:utf-8
+
 require 'rubygems'
 require "prawn"
 require "prawn-svg"
@@ -18,7 +21,7 @@ def produce_cv(data, output_filename)
       	bounding_box([bounds.left + 36, bounds.top - 50], :height => 75, width: bounds.right - 36 * 2) do
         	svg(File.read("assets/val_logo.svg"), :at => [bounds.right - 50, bounds.top], :width => 50)
         	bounding_box([bounds.right - 240 , bounds.top - 5], :width => 180, :height => 50) do
-						fill_color "000000"
+						fill_color "222222"
 
 						font_size 12
 						text "Valentin Arkhipov", :align => :right
@@ -49,43 +52,62 @@ def produce_cv(data, output_filename)
 
 		end
 
-		def print_section(title, introduction, content, title_size, indent)
-			if content.is_a?(Array)
+		def print_section(section, level, index)
+			title_size = 16 - (level * 4)
+			indent = 10 + (level * 20)
+			if section['content'].is_a?(Array)
 				indent(indent) do
 					move_down 20
 					font_size title_size
-					fill_color "999999"
-					text title
+					fill_color "777777"
+					text section['title']
 				end
 
-				content.each do |sub_section|
-					print_section(sub_section['title'], sub_section['introduction'], sub_section['content'], title_size - 4, indent + 20)
+				section['content'].each_with_index do |sub_section, index|
+					print_section(sub_section, level + 1, index)
 				end
 			else
+				if section['start_new_page']
+					start_new_page
+				end
 				indent(indent) do
 					move_down 20
+					
 					font_size title_size
-					fill_color "999999"
-					text title
+					fill_color level == 0 ? "777777" : "000000"
+					text section['title']
 
-					unless introduction == ''
+					# First section of first level? Add a photo!
+					if (level == 0) && (index == 0)
+						image "assets/Valentin Arkhipov.jpg", :at => [bounds.right - 200 , bounds.top], :width => 200
+					end
+
+					unless section['introduction'] == ''
 						move_down 5
-						font_size title_size - 4
-						text introduction
+						font_size 10
+						fill_color "999999"
+						text section['introduction']
 					end
 
 					move_down 5
 					font_size 10
-					fill_color "000000"
-					span 500 do
-						text content, :inline_format => true
+					fill_color "333333"
+					
+					# First section of first level? Share space with photo!
+					span_width = if (level == 0) && (index == 0)
+						290
+					else
+						500
+					end
+					span span_width do
+						text section['content'], :inline_format => true
 					end
 				end
 			end
 		end
 
-		data['sections'].each do |section|
-			print_section(section['title'], section['introduction'], section['content'], 16, 10)
+		data['sections'].each_with_index do |section, index|
+			print_section(section, 0, index)
 		end
 
 	end
