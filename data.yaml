@@ -15,7 +15,19 @@ sections:
       PostgreSQL, MySQL, MongoDB, Redis, ElasticSearch, Apache Spark + related
   - title: Latest work
     content:
-      - title: Dalia Research, market research startup - Berlin
+      - title: Taxfix, fintech startup - Berlin
+        introduction: Technical Lead, Marketing (July 2020 - Present)
+        content: |
+          Tech: JavaScript/TypeScript, Python, SQL (Snowflake), Airflow, Kubernetes, GCP
+
+          - Marketing technology for performance marketing, content marketing, display, CRM etc
+          - Developing a unified tracking, attribution, conversion and reporting infrastructure
+          - Cross team projects, product and growth strategy development
+          - Team leadership, mentoring
+          - Recruiting, candidate interviews, onboarding
+
+      - start_new_page: true
+        title: Dalia Research, market research startup - Berlin
         introduction: Principal Engineer (September 2017 - February 2020)
         content: |
           Tech: Ruby on Rails, Sinatra, Node, Python, React, Vue.js, MySQL, Mongo, Elasticsearch, Redis, Kafka, Apache Spark ecosystem, AWS, Docker
@@ -26,8 +38,7 @@ sections:
           - Team leadership, knowledge sharing, public speaking, workshop design
           - Recruiting outreach, candidate interviews, community presence
 
-      - start_new_page: true
-        title: Vypr, FMCG product development platform - Manchester
+      - title: Vypr, FMCG product development platform - Manchester
         introduction: Contractor (June 2016 - May 2017)
         content: |
           Tech: Ruby on Rails, React, Mongo, Redis, PostgreSQL, iOS, Android, Docker
@@ -49,14 +60,14 @@ sections:
           - Data layer rebuild, access optimization, normalization and data processing
           - Establishing tech workflows, test suite, CI, source control, deployment pipeline
           - Sourcing and handover to a new local provider
-      - title: Black Eye Project, creative agency - Sheffield
+      - start_new_page: true
+        title: Black Eye Project, creative agency - Sheffield
         introduction: Freelance/Consultant (October 2015 - May 2016)
         content: |
           Tech: Ruby on Rails, Frontend
 
           - Consultancy and delivery of projects for multi-medium creative campaigns
-      - start_new_page: true
-        title: Initforthe, tech agency - Manchester
+      - title: Initforthe, tech agency - Manchester
         introduction: Contractor (April 2015 - August 2015 (in 2 stints))
         content: |
           Tech: Ruby on Rails, Sinatra, Ruby CLI tools, JS/CSS
