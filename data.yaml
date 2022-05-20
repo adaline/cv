@@ -3,27 +3,18 @@ sections:
     content: |
       In my 20 year career working in startups, SMEs and public sector projects, I have developed the skills and reputation to deliver elegant technical solutions for diverse problems.
 
-      My strength lies in deep architectural understanding of software projects combined with people skills that let me bridge the gap between business demands and technical expertise. My aim is always to deliver amazing results by working with amazing people.
-  - title: TLDR
-    content:
-      Team leadership, tech consultation and strategy, work planning, presentations, pitches, workshops
-
-      Ruby, Node.js, Go, Rust, Python, PHP, C/C++, C#, Shell, Java
-
-      JavaScript, React, Vue, Canvas, WebAudio, WebGL
-
-      PostgreSQL, MySQL, MongoDB, Redis, ElasticSearch, Apache Spark + related
+      My strength lies in deep architectural understanding of software projects combined with people skills that let me bridge the gap between business needs and technical expertise. My aim is always to deliver amazing results by working with amazing people.
   - title: Latest work
     content:
       - title: Taxfix, fintech startup - Berlin
-        introduction: Technical Lead, Marketing (July 2020 - Present)
+        introduction: Lead Architect, Marketing (July 2020 - Present)
         content: |
           Tech: JavaScript/TypeScript, Python, SQL (Snowflake), Airflow, Kubernetes, GCP
 
           - Marketing technology for performance marketing, content marketing, display, CRM etc
           - Developing a unified tracking, attribution, conversion and reporting infrastructure
           - Cross team projects, product and growth strategy development
-          - Team leadership, mentoring
+          - Team leadership, mentoring, team org and processes
           - Recruiting, candidate interviews, onboarding
 
       - start_new_page: true
