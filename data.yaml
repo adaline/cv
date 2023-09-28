@@ -1,21 +1,23 @@
 sections:
   - title: Profile
     content: |
-      In my 20 year career working in startups, SMEs and public sector projects, I have developed the skills and reputation to deliver elegant technical solutions for diverse problems.
+      In my over 20 year career working in startups, SMEs and public sector projects, I have developed the skills and reputation to deliver elegant technical solutions for diverse problems.
 
       My strength lies in deep architectural understanding of software projects combined with people skills that let me bridge the gap between business needs and technical expertise. My aim is always to deliver amazing results by working with amazing people.
   - title: Latest work
     content:
       - title: Taxfix, fintech startup - Berlin
-        introduction: Lead Architect, Marketing (July 2020 - Present)
+        introduction: Lead Architect, Marketing (July 2020 - August 2023)
         content: |
           Tech: JavaScript/TypeScript, Python, SQL (Snowflake), Airflow, Kubernetes, GCP
 
-          - Marketing technology for performance marketing, content marketing, display, CRM etc
-          - Developing a unified tracking, attribution, conversion and reporting infrastructure
-          - Cross team projects, product and growth strategy development
-          - Team leadership, mentoring, team org and processes
-          - Recruiting, candidate interviews, onboarding
+          - Overseeing tech for performance marketing, content marketing, display, CRM etc
+          - Working across all domains - frontend, backend, data and external integrations
+          - Developing a unified tracking, attribution, conversion, forecasting and reporting infrastructure
+          - Privacy and legal compliance solutions across markets and domains
+          - Global expansion infrastructure, product platforming and modularization
+          - Cross team projects management, product and growth strategy development
+          - Team design, scaling and processes, engineer mentoring
 
       - start_new_page: true
         title: Dalia Research, market research startup - Berlin
