@@ -79,7 +79,7 @@ def produce_cv(data, output_filename)
 
 					# First section of first level? Add a photo!
 					if (level == 0) && (index == 0)
-						image "assets/Valentin Arkhipov.jpg", :at => [bounds.right - 200 , bounds.top], :width => 200
+						image "assets/Valentin Arkhipov.jpg", :at => [bounds.right - 200 , bounds.top - 50], :width => 200
 					end
 
 					unless section['introduction'] == ''
