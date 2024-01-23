@@ -1,19 +1,20 @@
 sections:
   - title: Profile
     content: |
-      In my over 20 year career working in startups, SMEs and public sector projects, I have developed the skills and reputation to deliver elegant technical solutions for diverse problems.
-
-      My strength lies in deep architectural understanding of software projects combined with people skills that let me bridge the gap between business needs and technical expertise. My aim is always to deliver amazing results by working with amazing people.
+      In my 22-year career working in startups, SMEs and public sector projects, I have developed the skills and reputation for delivering elegant technical solutions to diverse business problems.
+      With the breadth of experience, resilience and adaptability to challenges, I have often led greenfield and ambitious moonshot projects for clients and within companies.
+      My strength is the combination of technical and business understandings, with the people skills to build relationships, a sense of community and enthusiasm around our work - effectively bridging the gaps, amplifying people's strengths and delivering the vision.
   - title: Latest work
     content:
       - title: Taxfix, fintech startup - Berlin
         introduction: Lead Architect, Marketing (July 2020 - August 2023)
         content: |
-          Tech: JavaScript/TypeScript, Python, SQL (Snowflake), Airflow, Kubernetes, GCP
+          Tech: JavaScript/TypeScript, Python, SQL (Snowflake), dbt, Airflow, Kubernetes, GCP
 
-          - Overseeing tech for performance marketing, content marketing, display, CRM etc
+          - Overseeing all tech for performance marketing, content marketing, display, CRM etc
           - Working across all domains - frontend, backend, data and external integrations
           - Developing a unified tracking, attribution, conversion, forecasting and reporting infrastructure
+          - Automation, self service internal tooling, low code/no code solutions, AI wokflow augmentation
           - Privacy and legal compliance solutions across markets and domains
           - Global expansion infrastructure, product platforming and modularization
           - Cross team projects management, product and growth strategy development
